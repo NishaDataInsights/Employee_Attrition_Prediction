@@ -14,6 +14,7 @@ It includes a cleaned dataset, a Jupyter Notebook for model building and feature
 - WA_Fn-UseC_-HR-Employee-Attrition.csv – Original raw dataset.
 
 # 📊 Tools Used
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 - Power BI
@@ -45,10 +46,21 @@ It includes a cleaned dataset, a Jupyter Notebook for model building and feature
 
 - Interactive dashboard for better decision-making support.
 
+- Optimize model for better accuracy.
 
-
-Optimize model for better accuracy.
-
-📞 Contact
+# 📞 Contact
 For any queries or collaboration opportunities, feel free to reach out!
 
+# Power BI : Fast Food Stock Dashboard
+
+  ---
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/1.png?raw=true)  
+*Above: Power BI Dashboard showcasing front page and theme.*
+
+---
+
+---
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/2.png?raw=true)  
+*Above: Power BI Dashboard showcasing Second page and theme.*

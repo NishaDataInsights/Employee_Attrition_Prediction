@@ -48,19 +48,30 @@ It includes a cleaned dataset, a Jupyter Notebook for model building and feature
 
 - Optimize model for better accuracy.
 
-# 📞 Contact
-For any queries or collaboration opportunities, feel free to reach out!
-
-# Power BI : Fast Food Stock Dashboard
+# Power BI : Overview Dashboard
 
   ---
 
-![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/1.png?raw=true)  
-*Above: Power BI Dashboard showcasing front page and theme.*
+![Power BI Dashboard](https://github.com/NishaDataInsights/Employee_Attrition_Prediction/blob/main/Screenshot%202025-04-28%20073901.png)  
+*Above: Power BI Dashboard showcasing front page.*
 
 ---
 
 ---
 
-![Power BI Dashboard](https://github.com/NishaDataInsights/Analytics-Avengers/blob/main/2.png?raw=true)  
-*Above: Power BI Dashboard showcasing Second page and theme.*
+# Power BI : Attrition Analysis Dashboard
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Employee_Attrition_Prediction/blob/main/Screenshot%202025-04-28%20073930.png)  
+*Above: Power BI Dashboard showcasing Second page.*
+
+---
+
+---
+
+# Power BI : Employee Profile Dashboard
+
+![Power BI Dashboard](https://github.com/NishaDataInsights/Employee_Attrition_Prediction/blob/main/Screenshot%202025-04-28%20073950.png)  
+*Above: Power BI Dashboard showcasing Third page.*
+
+# 📞 Contact
+For any queries or collaboration opportunities, feel free to reach out!
